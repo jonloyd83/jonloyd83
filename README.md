@@ -22,4 +22,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonloyd83&" alt="jonloyd83" /></p>
 
+------------------------------------------- 
 
+Credits: [jonloyd83](https://github.com/jonloyd83)
+
+Last edited on: 01/13/23
+
+![Visitor Count](https://profile-counter.glitch.me/{jonloyd83}/count.svg)
