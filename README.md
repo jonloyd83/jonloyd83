@@ -1,6 +1,5 @@
-[![jonloyd83](https://64.media.tumblr.com/5378b15545e9f678c276c71d65c2332d/db4faccd3974c37c-80/s1280x1920/62af995ea18fbff1be7188e5221af897186db6b8.gif)](https://www.facebook.com/jonloyd83)
-<h1 align="center">Hi 👋, I'm Jon Loyd Cortez</h1>
-<h3 align="center">A BSIT Student at Caraga State University</h3>
+[![jonloyd83](https://raw.githubusercontent.com/jonloyd83/jonloyd83/main/29.gif)](https://www.facebook.com/jonloyd83)
+
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
 - 🌱 I’m currently learning *Drupal, HTML, CSS, JavaScript, Photoshop, etc.*
