@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Drupal, HTML, CSS, JavaScript, Photoshop, etc.*
 
-- 👨‍💻 My Personal Portfolio at [jonloyd83.github.io/official/]
+- 👨‍💻 My Personal Portfolio at **jonloyd83.github.io/official**
 
 - 📫 How to reach me **cortezjonloyd@gmail.com**
 
