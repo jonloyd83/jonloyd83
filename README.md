@@ -6,8 +6,6 @@
 
 - 👨‍💻 My Personal Portfolio at **jonloyd83.github.io/official**
 
-- 📫 How to reach me **cortezjonloyd@gmail.com**
-
 - ⚡ Fun fact **Why do programmers prefer dark mode? Less bright, less bugs.**
 
 <h3 align="left">Connect with me:</h3>
